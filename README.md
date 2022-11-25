@@ -7,7 +7,8 @@
 - Rails
 - PostgreSQL
 
-## Online Version Link
+## Front End Link
+https://github.com/NduatiKagiri/hello-react-front-end/
 
 ## Getting Started
 To get a local copy up and running follow these simple example steps.
