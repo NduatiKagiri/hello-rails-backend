@@ -1,24 +1,46 @@
-# README
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello Rails Backend
+> Hello Rails Backend project: Create an API project that fetches greetings from a database and returns 1 greeting when the API is called.
 
-Things you may want to cover:
+## Built With
+- Rails
+- PostgreSQL
 
-* Ruby version
+## Online Version Link
 
-* System dependencies
+## Getting Started
+To get a local copy up and running follow these simple example steps.
 
-* Configuration
+### Prerequisites
+A text editor eg Atom
 
-* Database creation
+### Setup
 
-* Database initialization
+ **Step 1: Clone this repo locally using git**
+- Create a folder in your local machine
+- Open your console in your folder and run this command: `git clone https://github.com/NduatiKagiri/hello-rails-backend.git`
+- Alternatively, you can just download the complete zip file and extract the folder in your directory
 
-* How to run the test suite
+ **Step 2: Run in your project directory**
+- Run `bundle install` to install all the gems from the Gemfile
+- Run `rails db:migrate` to migrate the database
+- Run `rails server` to run the apps's server
 
-* Services (job queues, cache servers, search engines, etc.)
+## Authors
+:bust_in_silhouette: **NduatiKagiri**
 
-* Deployment instructions
+GitHub: https://github.com/NduatiKagiri
+Twitter: https://twitter.com/NduatiKagiri
+LinkedIn: https://linkedin.com/in/nduati-kagiri/
 
-* ...
+## :handshake: Contributing
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the issues page.
+
+## Show your support
+Give a :star:️ if you like this project!
+
+##:memo: License
+This project is MIT licensed.
