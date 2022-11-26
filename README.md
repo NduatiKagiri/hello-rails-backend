@@ -1,47 +1,134 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+# 📖 [Hello Rails Backend] <a name="about-project"></a>
 
-# Hello Rails Backend
-> Hello Rails Backend project: Create an API project that fetches greetings from a database and returns 1 greeting when the API is called.
+> A Hello World app that fetches a random greeting from the database and sends it as
+a response to an API call.
 
-## Built With
-- Rails
-- PostgreSQL
+## 🛠 Built With <a name="built-with"></a>
 
-## Front End Link
-https://github.com/NduatiKagiri/hello-react-front-end/
+### Tech Stack <a name="tech-stack"></a>
 
-## Getting Started
-To get a local copy up and running follow these simple example steps.
+> Rails API.
+> PostgreSQL
+> React.js
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="https://rails.com/">Ruby on Rails</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+  </ul>
+</details>
+
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[API]**
+  Receives requests as API calls and returns APIs response
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Front end repo <a name="front-end"></a>
+
+- [Live Demo Link](https://github.com/NduatiKagiri/hello-react-front-end)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> Describe how a new developer could make use of your project.
+
+To get a local copy up and running, follow these steps.
 
 ### Prerequisites
-A text editor eg Atom
+
+In order to run this project you need:
 
 ### Setup
 
- **Step 1: Clone this repo locally using git**
-- Create a folder in your local machine
-- Open your console in your folder and run this command: `git clone https://github.com/NduatiKagiri/hello-rails-backend.git`
-- Alternatively, you can just download the complete zip file and extract the folder in your directory
+Clone this and the frontend repositories to your desired folder:
 
- **Step 2: Run in your project directory**
-- Run `bundle install` to install all the gems from the Gemfile
-- Run `rails db:migrate` to migrate the database
-- Run `rails server` to run the apps's server
+### Install
 
-## Authors
-:bust_in_silhouette: **NduatiKagiri**
+Install this project with:
 
-GitHub: https://github.com/NduatiKagiri
-Twitter: https://twitter.com/NduatiKagiri
-LinkedIn: https://linkedin.com/in/nduati-kagiri/
+```sh
+  cd hello-rails-backend
+  bundle install
+```
 
-## :handshake: Contributing
+```sh
+  cd hello-react-front-end
+  npm install
+```
+
+### Usage
+
+To run the project, execute the following command:
+
+```sh
+  rails server
+```
+
+```sh
+  npm install
+```
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Author1**
+
+- GitHub: [@githubhandle](https://github.com/NduatiKagiri)
+- Twitter: [@twitterhandle](https://twitter.com/NduatiKagiri)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/nduati-kagiri)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the issues page.
+Feel free to check the [issues page](../../issues/).
 
-## Show your support
-Give a :star:️ if you like this project!
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-##:memo: License
-This project is MIT licensed.
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+> Write a message to encourage readers to support your project
+
+Give a :star: if you like this project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
